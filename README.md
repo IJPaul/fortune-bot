@@ -1,6 +1,6 @@
 # fortune-bot
 
-Code for a Twitter bot that tweets fortunes generated via a python program daily. 
+Code for a Twitter bot that tweets fortunes generated via a python program daily. My Twitter developer API specific information has been omitted for security reasons.
 
 Give the bot a follow at https://twitter.com/FortuneCookie50 for some good fortune!
 
